@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush2281" alt="ayush2281" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/ayushrajput1366" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ayushrajput1366?logo=twitter&style=for-the-badge" alt="https://twitter.com/ayushrajput1366" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"
 
   
   - 🌱 I’m currently learning **🐍 Currently honing Python skills for future projects.**
