@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ayush2281/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o7zrS64TquCAXDKYnuOlEQUjCdjJaomS/view?usp=drivesdk](https://drive.google.com/file/d/1o7zrS64TquCAXDKYnuOlEQUjCdjJaomS/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o7zrS64TquCAXDKYnuOlEQUjCdjJaomS/view?usp=drivesdk](https://drive.google.com/file/d/19eeIIMFTuISeAg5nWrNtpAdyrN9lvkOU/view?usp=drive_link)
 
 - ⚡ Fun fact **I can solve a Rubik's Cube in under [2 mint]! Coding challenges aren't the only puzzles I love tackling. 🧩✨**
 
