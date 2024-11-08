@@ -2,7 +2,7 @@
  
  <p> <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"</p>
 🐍 Currently honing Machine And Deep Learning for future projects.<br>👨‍💻 All of my projects are available at ayush2281.github.io<br>💬 Ask me about Problem Solving skill<br>
- 📫 How to reach me https://www.linkedin.com/in/ayush2281/<br>📄 Know about my experiences https://drive.google.com/file/d/1o7zrS64TquCAXDKYnuOlEQUjCdjJaomS/view?usp=drivesdk<br>⚡ Fun fact I can solve a Rubik's Cube in under [2 mint]! Coding challenges aren't the only puzzles I love tackling. 🧩✨<br><br><br>
+ 📫 How to reach me https://www.linkedin.com/in/ayush2281/<br>📄 Know about my experiences https://drive.google.com/file/d/1rCMj899DGIM6S3R5EOSrbGf7n-TsWD73/view?usp=sharing<br>⚡ Fun fact I can solve a Rubik's Cube in under [2 mint]! Coding challenges aren't the only puzzles I love tackling. 🧩✨<br><br><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ayushsingh1366) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush_rajput1299) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush2281)
